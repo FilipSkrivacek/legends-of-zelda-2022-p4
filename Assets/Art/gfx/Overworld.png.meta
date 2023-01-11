@@ -70,7 +70,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -22720,9 +22720,9 @@ TextureImporter:
       Overworld_1049: -268640766
       Overworld_896: 1871182845
       Overworld_506: -477631966
-      Overworld_653: 690293990
-      Overworld_939: 535085978
       Overworld_900: 1378176923
+      Overworld_51: 1506280681
+      Overworld_653: 690293990
       Overworld_473: -1513123398
       Overworld_779: 5498553
       Overworld_375: 1271970904
@@ -22732,7 +22732,7 @@ TextureImporter:
       Overworld_79: -1009865323
       Overworld_1034: -2076271579
       Overworld_359: 93526020
-      Overworld_51: 1506280681
+      Overworld_939: 535085978
       Overworld_142: 1339646531
       Overworld_657: -2027003535
       Overworld_852: 1204132037
@@ -22927,14 +22927,14 @@ TextureImporter:
       Overworld_94: -246662858
       Overworld_285: -302202629
       Overworld_1008: -1734190046
-      Overworld_160: -2061289779
       Overworld_873: -1904105114
-      Overworld_472: 1122669422
+      Overworld_160: -2061289779
+      Overworld_424: 1441508442
       Overworld_57: 1186707230
       Overworld_787: 120822990
       Overworld_47: -364263589
       Overworld_185: -1740473312
-      Overworld_424: 1441508442
+      Overworld_472: 1122669422
       Overworld_410: 701035382
       Overworld_233: 605846412
       Overworld_260: -1678533190
@@ -23207,14 +23207,14 @@ TextureImporter:
       Overworld_502: -1492881462
       Overworld_446: -570261207
       Overworld_866: -1576821510
-      Overworld_1052: 149379759
+      Overworld_452: 1626216607
       Overworld_303: -2115861934
       Overworld_317: -531396270
       Overworld_396: -1826127712
+      Overworld_1052: 149379759
       Overworld_569: -1128616992
       Overworld_647: -645928175
       Overworld_421: 2117237489
-      Overworld_452: 1626216607
       Overworld_940: -762933048
       Overworld_863: -1262390352
       Overworld_587: -1463184632
