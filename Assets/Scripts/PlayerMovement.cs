@@ -21,7 +21,7 @@ public class PlayerMovement : MonoBehaviour
     private Vector3 change;
     private Animator animator;
 
-    // Start is called before the first frame update
+    // Start is called befoe the first frame update
     void Start()
     {
         currentState = PlayerState.walk;
@@ -78,7 +78,7 @@ public class PlayerMovement : MonoBehaviour
     {
         change.Normalize();
         myRigidbody.MovePosition(
-            transform.position + change * speed * Time.deltaTime
+            transform.position + change.normalized * speed * Time.deltaTime
             );
     }
 
